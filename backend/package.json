@@ -1,0 +1,28 @@
+{
+  "name": "airfare-index-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Real-time Airfare Price Index for India",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "vitest run",
+    "import:scraped": "node scripts/importScraperJSON.js ../scraped_data --mode=REAL",
+    "import:scraper": "node scripts/importScraperJSON.js",
+    "pipeline:daily": "node scripts/runDailyPipeline.js",
+    "seed:demo": "node scripts/seedDemoData.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "mongoose": "^8.4.1",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.0.0",
+    "vitest": "^1.6.0"
+  }
+}

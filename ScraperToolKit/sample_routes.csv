@@ -1,0 +1,4 @@
+origin,destination,date,seat_class,currency
+DEL,BOM,2026-09-15,economy,INR
+BOM,BLR,2026-09-15,economy,INR
+HYD,DEL,2026-09-22,economy,INR

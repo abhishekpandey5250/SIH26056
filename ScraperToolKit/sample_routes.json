@@ -1,0 +1,142 @@
+[
+  {
+    "origin": "DEL",
+    "destination": "BOM",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "DEL",
+    "destination": "BLR",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "BOM",
+    "destination": "BLR",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "DEL",
+    "destination": "HYD",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "BOM",
+    "destination": "GOI",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "DEL",
+    "destination": "CCU",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "BLR",
+    "destination": "HYD",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "DEL",
+    "destination": "MAA",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "DEL",
+    "destination": "AMD",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "BOM",
+    "destination": "HYD",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "BOM",
+    "destination": "MAA",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "BLR",
+    "destination": "MAA",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "DEL",
+    "destination": "PNQ",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "BOM",
+    "destination": "CCU",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "BLR",
+    "destination": "GOI",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "HYD",
+    "destination": "MAA",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "DEL",
+    "destination": "GOI",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "BOM",
+    "destination": "AMD",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "BLR",
+    "destination": "CCU",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  },
+  {
+    "origin": "BLR",
+    "destination": "COK",
+    "date": "2026-09-05",
+    "seat_class": "economy",
+    "currency": "INR"
+  }
+]
